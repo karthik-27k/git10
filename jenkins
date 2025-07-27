@@ -1,0 +1,30 @@
+CI/CD & Jenkins
+	1. SonarQube quality gate vs quality profile
+	2. What is a Sonar runner?
+	3. Types of pipelines in Jenkins
+	4. Scripted vs Declarative pipeline
+	5. Should we prefer Artifactory or S3 to store artifacts?
+	6. How to upgrade plugins in Jenkins?
+	7. User management in Jenkins
+	8. Concepts about GitLab runners
+	9. How to upgrade Jenkins
+	10. Can you share your screen and write a Jenkins pipeline?
+	11. How do you write parallel jobs in a Jenkins pipeline?
+	12. CI/CD workflow.
+	13. What tools have you used for CI/CD, and how do they fit into the pipeline?
+	14. How do you handle failures during deployments?
+	15. Explain blue-green deployments and canary deployments.
+	16. What are some challenges with automating CI/CD, and how do you address them?
+	17. Difference between a single Jenkins CI/CD pipeline and multiple pipelines?
+	18. Issues of using a single pipeline vs multiple pipelines?
+	19. Current Jenkins version?
+	20. Write a Jenkins pipeline script for Terraform deployment.
+	21. How do you troubleshoot failed Jenkins pipelines?
+	22. How do you automate infrastructure provisioning?
+	23. Walk me through your pipeline.
+	24. How do you integrate GitHub with Jenkins?
+	25. Traditional DevOps vs GitOps.
+	26. How does ArgoCD work?
+	27. What deployment strategies have you worked on?
+	28. Blue-Green deployment: explain consequences.
+How is the CI/CD pipeline set up in your project?
