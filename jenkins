@@ -31,6 +31,7 @@ How is the CI/CD pipeline set up in your project?
 
 
 
+
 conflict managed from githihubbbbbbbbbbbbb
 
 
@@ -45,6 +46,7 @@ conflict 4
 conflict 5
 
 w do you integrate Azure DevOp with AWS for deployments?
+w do you integrate Azure DevOps with AWS for deployments?
 	41. What tools have you used for configuration management? Why?
 	42. Explain the “CI/CD pipeline.” How does it improve software delivery?
 	43. How do you find errors in pipelines?
