@@ -1,0 +1,18 @@
+Kubernetes 
+
+
+1. Kubernetes architecture
+Explanation:
+Kubernetes follows a master-worker architecture.
+	· Control Plane (Master):
+			o kube-apiserver: Exposes the Kubernetes API.
+			o etcd: Stores all cluster data.
+			o kube-scheduler: Assigns pods to nodes.
+			o kube-controller-manager: Handles controllers like replication.
+			o cloud-controller-manager: Manages cloud-specific control loops.
+	· Node (Worker):
+			o kubelet: Communicates with API server, runs containers.
+			o kube-proxy: Maintains network rules.
+			o Container Runtime: Docker/containerd/CRI-O.
+ 
+helooo conflict
