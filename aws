@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 added from githib
-=======
 at code quality metrics and gates have you applied?
 	99. DevSecOps practices you’ve followed.
 	100. What metrics do you track and report to stakeholders?
@@ -10,4 +8,3 @@ at code quality metrics and gates have you applied?
 	104. Can you explain IAM user, IAM role, and IAM group in AWS?
 	105. What is the difference between an IAM role and an IAM policy document?
 	106. What are inline policies and managed policies?
->>>>>>> 4fd92d1 (aws)
