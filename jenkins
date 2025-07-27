@@ -33,6 +33,7 @@ How is the CI/CD pipeline set up in your project?
 
 conflict managed from githihubbbbbbbbbbbbb
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 <<<<<<< HEAD
@@ -52,12 +53,20 @@ conflict 5
 =======
 >>>>>>> 665bf85 (fixed)
 >>>>>>> 6776fbb (fixed)
+=======
+
+conflict 2
+
+conflict 3
+
+>>>>>>> d67e20a (final fix)
 w do you integrate Azure DevOps with AWS for deployments?
 	41. What tools have you used for configuration management? Why?
 	42. Explain the “CI/CD pipeline.” How does it improve software delivery?
 	43. How do you find errors in pipelines?
 	44. What is a Sonar runner?
 What are artifacts?
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 =======
@@ -68,3 +77,7 @@ What are artifacts?
 =======
 >>>>>>> 665bf85 (fixed)
 >>>>>>> 6776fbb (fixed)
+=======
+
+final fixxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+>>>>>>> d67e20a (final fix)
